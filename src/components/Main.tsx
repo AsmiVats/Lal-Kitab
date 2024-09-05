@@ -29,10 +29,7 @@ const Main: FunctionComponent<MainType> = ({ className = "" }) => {
         >
           Courses
         </a>
-        <a className="[text-decoration:none] absolute top-[0px] left-[303px] font-bold text-[inherit]">
-          Page
-        </a>
-        <a className="[text-decoration:none] absolute top-[0px] left-[390px] font-bold text-[inherit] whitespace-nowrap">
+        <a className="[text-decoration:none] absolute top-[0px] left-[288px] font-bold text-[inherit] whitespace-nowrap">
           Contact Us
         </a>
       </nav>

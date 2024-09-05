@@ -34,10 +34,7 @@ const CoursePage: FunctionComponent = () => {
               <a className="[text-decoration:none] absolute top-[0px] left-[192px] font-bold text-[inherit]">
                 Courses
               </a>
-              <a className="[text-decoration:none] absolute top-[0px] left-[303px] font-bold text-[inherit]">
-                Page
-              </a>
-              <a className="[text-decoration:none] absolute top-[0px] left-[390px] font-bold text-[inherit] whitespace-nowrap">
+              <a className="[text-decoration:none] absolute top-[0px] left-[288px] font-bold text-[inherit] whitespace-nowrap">
                 Contact Us
               </a>
             </nav>

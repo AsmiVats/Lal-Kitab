@@ -40,10 +40,7 @@ const CourseDetailPage: FunctionComponent = () => {
               >
                 Courses
               </a>
-              <a className="[text-decoration:none] absolute top-[0px] left-[303px] font-bold text-[inherit] inline-block min-w-[37px]">
-                Page
-              </a>
-              <a className="[text-decoration:none] absolute top-[0px] left-[390px] font-bold text-[inherit] inline-block min-w-[81px] whitespace-nowrap">
+              <a className="[text-decoration:none] absolute top-[0px] left-[288px] font-bold text-[inherit] inline-block min-w-[81px] whitespace-nowrap">
                 Contact Us
               </a>
             </nav>
@@ -82,7 +79,7 @@ const CourseDetailPage: FunctionComponent = () => {
               <div className="w-[372px] flex flex-row items-start justify-start pt-0 px-0 pb-[8.6px] box-border max-w-full">
                 <div className="flex-1 relative leading-[32px] inline-block max-w-full mq450:text-base mq450:leading-[26px]">
                   <b>Instructors:</b>
-                  <span> Acharya Lokesh Dhamija</span>
+                  <span> Jyotish Kunwar Singh Ji</span>
                 </div>
               </div>
               <div className="w-64 flex flex-col items-start justify-start gap-[8.2px]">

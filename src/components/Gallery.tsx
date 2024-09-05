@@ -16,7 +16,7 @@ const Gallery = () => {
 
   return (
     <div className="w-full max-w-6xl mx-auto p-4">
-      <h1 className="text-center text-65xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-8">
+      <h1 className="text-center text-65xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-8" style={{ fontFamily: "algeria" }}>
   <span className="text-color">Gallery</span>
 </h1>
 
