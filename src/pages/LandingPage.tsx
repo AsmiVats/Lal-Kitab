@@ -7,6 +7,7 @@ import FrameComponent from "../components/FrameComponent";
 import LinkList from "../components/LinkList";
 import FrameComponent3 from "../components/FrameComponent3";
 import Footer from "../components/Footer";
+import Gallery from "../components/Gallery";
 
 const LandingPage: FunctionComponent = () => {
   return (
@@ -189,6 +190,7 @@ const LandingPage: FunctionComponent = () => {
         </h1>
       </section>
       <FrameComponent3 />
+      <Gallery/>
       <footer className="self-stretch flex flex-row items-start justify-center py-0 pl-px pr-0 box-border max-w-full">
         <Footer />
       </footer>
