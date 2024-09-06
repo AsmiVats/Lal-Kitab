@@ -24,13 +24,10 @@ const FrameComponent3: FunctionComponent<FrameComponent3Type> = ({
             </div>
             <div className="w-[465px] flex flex-col items-start justify-start gap-[15px] max-w-full">
               <div className="self-stretch relative">
-                Lorem ipsum dolor sit amet consectetur. Pellentesque nascetur
-                sed tellus ut vehicula eu consectetur elit at. Nulla erat nunc
-                nisl dui sed cras semper vitae. Tempor odio ullamcorper non sed
-                dignissim eu egestas fusce arcu.
+              Taking this astrology course has been an enlightening experience. The depth of information provided is impressive, yet it's presented in a way that’s accessible and easy to grasp. From natal chart interpretations to understanding planetary influences, I’ve learned how to apply astrology in practical ways. The support from the community and instructors is fantastic, too! I highly recommend this course to anyone serious about learning astrology.
               </div>
               <div className="h-[33px] relative text-5xl inline-block mq450:text-lgi">
-                Antonio H - Client
+              Amol Sadashiv Joshi , Jalgaon , Maharashtra , India
               </div>
             </div>
           </div>
@@ -39,17 +36,14 @@ const FrameComponent3: FunctionComponent<FrameComponent3Type> = ({
               className="self-stretch h-[500px] relative max-w-full overflow-hidden shrink-0 object-cover"
               loading="lazy"
               alt=""
-              src="/mask-group@2x.png"
+              src="/mask-group@3x.png"
             />
             <div className="w-[465px] flex flex-col items-start justify-start gap-[15px] max-w-full">
               <div className="self-stretch relative">
-                Lorem ipsum dolor sit amet consectetur. Pellentesque nascetur
-                sed tellus ut vehicula eu consectetur elit at. Nulla erat nunc
-                nisl dui sed cras semper vitae. Tempor odio ullamcorper non sed
-                dignissim eu egestas fusce arcu.
+              I have always been curious about astrology, but this course truly exceeded my expectations. The lessons are well-structured and easy to follow, even for beginners like me. The instructors are knowledgeable and passionate, making the material engaging and fun. I've gained so much insight into astrological charts and how they influence our lives. This course is a game-changer for anyone looking to dive deep into astrology!
               </div>
               <div className="h-[33px] relative text-5xl inline-block mq450:text-lgi">
-                Jessica D - Client
+              Acharya Kunjbihari Jindal , Jind , Haryana
               </div>
             </div>
           </div>
