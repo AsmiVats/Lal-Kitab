@@ -23,13 +23,13 @@ const LinkList: FunctionComponent<LinkListType> = ({ className = "" }) => {
         {/* Images Section */}
         <div className="flex flex-row items-start justify-between w-full  flex-wrap">
           <img
-            className="w-1/2 object-cover "
+            className="w-2/5 object-cover "
             loading="lazy"
             alt="Course Image 1"
             src="/photo20240818163614-2@2x.png"
           />
           <img
-            className="w-1/2 object-cover "
+            className="w-2/5 object-cover "
             loading="lazy"
             alt="Course Image 2"
             src="/photo20240818163614-2@2x.png"
