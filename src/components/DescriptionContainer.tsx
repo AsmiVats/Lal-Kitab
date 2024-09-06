@@ -37,42 +37,93 @@ const DescriptionContainer: FunctionComponent<DescriptionContainerType> = ({
               </h2>
             </div>
             <div className="relative text-15xl-6 leading-[49px] font-semibold mq800:text-9xl mq800:leading-[39px] mq450:text-2xl mq450:leading-[29px]">
-              11 Classes
+              Class Includes
             </div>
           </div>
           <div className="relative text-2xl-4 leading-[43px] font-semibold inline-block max-w-full mq450:text-mid mq450:leading-[34px]">
             Video Lectures - Recorded Classes
           </div>
           <div className="w-[222px] relative leading-[43px] font-light flex items-center mq450:text-lgi mq450:leading-[34px]">
-            Class -1 : 9 Planets
+          1: सरसरी नोट्स
+
           </div>
           <div className="w-[233px] relative leading-[43px] font-light flex items-center mq450:text-lgi mq450:leading-[34px]">
-            Class-2 : 12 Houses
+          2 : वैदिक ज्योतिष
+      ग्रहों की राशियां
+      राशियों के मालिक
+      ग्रहों की उच्च नीच राशियां
+      ग्रहों की दृष्टियाँ
+      ग्रहों के मित्र, शत्रु, सम भाव
+
           </div>
           <div className="w-[249px] relative leading-[43px] font-light flex items-center mq450:text-lgi mq450:leading-[34px]">
-            Class-3 : 12 Rashiyan
+          3: लाल किताब की शुरुवात
+     कालपुरुष कुंडली में राशियों का स्थान
+     वैदिक से लाल किताब की कुंडली बनाना
+     स्वराशियों का स्थान ( ग्रहों की जड़ )
+     ग्रहों का उच्च नीच का स्थान
+     राहु केतु का उच्च नीच का स्थान
+     ग्रहों के पक्के घर
+     ग्रहों की दोस्ती दुश्मनी बराबरी
+
           </div>
           <div className="w-[460px] relative leading-[43px] font-light flex items-center max-w-full mq450:text-lgi mq450:leading-[34px]">
-            Class 4 : Rashiyan Descriptions Part - 1
+          4: लाल किताब की दृष्टियाँ
+     100% 50% 25%
+      आम दृष्टि
+      1/8 की टक्कर
+       बुनियादी दृष्टि 1/9)
+       धोखे की दृष्टि 1-10 की दृष्टि)
+       पहले के घर / बाद के घर
+       ৪ की उल्टी दृष्टि
+       अचानक चोट
+       शनि की 6 ठी दृष्टि
+       सांझी दीवार
+
           </div>
           <div className="w-[460px] relative leading-[43px] font-light flex items-center max-w-full mq450:text-lgi mq450:leading-[34px]">
-            Class 5 : Rashiyan Descriptions Part - 1
+          5: लाल किताब में कुंडलियों के प्रकार
+     आधी अंधी कुंडली
+     अंधी कुंडली
+      बिलमुकाबिल कुंडली
+      धर्मी कुंडली
+      साथी ग्रहों की कुंडली
+      नाबालिग कुंडली
+
           </div>
           <div className="w-[516px] relative leading-[43px] font-light flex items-center max-w-full mq450:text-lgi mq450:leading-[34px]">
-            Class 6 - Drishti, Exalted Debilitated Planets
+          6: जन्मवक्त का ग्रह
+जन्मदिन का ग्रह
+जन्मवक्त के ग्रह को कैसे सही करें ?
+(उपाय करते वक़्त सहायता मिलेगी)
+35 साला चक्कर
+
           </div>
           <div className="w-[385px] relative leading-[43px] font-light flex items-center max-w-full mq450:text-lgi mq450:leading-[34px]">
-            Class 7 - Lagna "Aries to Cancer"
+          7: रियायती 40 दिन
+
           </div>
           <div className="w-[388px] relative leading-[43px] font-light flex items-center max-w-full mq450:text-lgi mq450:leading-[34px]">
-            Class 8 - Lagna "Singh to Dhanu"
+          ৪: मस्नूई ग्रह
+
           </div>
           <div className="w-96 relative leading-[43px] font-light flex items-center max-w-full mq450:text-lgi mq450:leading-[34px]">
-            Class 9 - Lagna "Makar to Meen"
+          9: सोया हुआ घर और सोया हुआ ग्रह
+सोए हुए घर को कैसे जगाएं ?
+सोए हुए ग्रह को कैसे जगाएं ?
+
           </div>
-          <div className="w-[549px] relative leading-[43px] font-light flex items-center max-w-full mq450:text-lgi mq450:leading-[34px]">{`Class - 10 Multrikon Rashi, Friends & Enemies.`}</div>
+          <div className="w-[549px] relative leading-[43px] font-light flex items-center max-w-full mq450:text-lgi mq450:leading-[34px]">
+          10 : पित्र ऋण
+</div>
           <div className="w-[308px] relative leading-[43px] font-light flex items-center mq450:text-lgi mq450:leading-[34px]">
-            Class - 11 Vedic Grammar
+          12: Calculation
+वर्षफल की कुंडलियां सीखना
+हमारी किस्मत का ग्रह कैसे निकालें ?
+हमारे किस्मत के ग्रह को कैसे बचाएं ?
+कुंडली से हर साल कौन सा ग्रह धोखा देगा
+बुध का भेद
+
           </div>
           <div className="relative text-2xl-4 leading-[43px] font-semibold mq450:text-mid mq450:leading-[34px]">
             Validity - 4 Months
@@ -90,7 +141,7 @@ const DescriptionContainer: FunctionComponent<DescriptionContainerType> = ({
                   the refund policy properly.  
                 </div>
                 <div className="relative leading-[43px] font-semibold z-[1] mt-[-0.2px] mq450:text-mid mq450:leading-[34px]">
-                  https://www.gurukulastro.com/refundpolicy
+                  https://www.jyotishkunwarsinghji.com
                 </div>
               </div>
             </div>

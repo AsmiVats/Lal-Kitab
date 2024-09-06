@@ -22,11 +22,14 @@ const Testimonial: FunctionComponent<TestimonialType> = ({
           tellus ut vehicula eu consectetur elit at. Nulla erat nunc nisl dui
           sed cras semper ullamcorper.
         </div>
+      <a
+        href="https://whatsapp.com/channel/0029VaCvtuLK0IBclhbqYi2Z">
         <button className="cursor-pointer [border:none] py-[15px] px-5 bg-color w-[300px] flex flex-row items-start justify-center box-border whitespace-nowrap hover:bg-crimson">
           <b className="h-[33px] relative text-5xl inline-block font-alegreya text-ppp-white text-left">
             Get Started
           </b>
         </button>
+        </a>
       </div>
     </div>
   );
